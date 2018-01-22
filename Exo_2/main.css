@@ -1,0 +1,22 @@
+.lol {
+    color: blue;
+}
+.xD {
+  color: red;
+}
+
+footer {
+  background: orange;
+}
+
+a {
+  color: tomato;
+  text-decoration: black;
+  background-color: blue;
+}
+a:hover{
+  color: purple;
+}
+  a:visited{
+    color: red;
+  }
